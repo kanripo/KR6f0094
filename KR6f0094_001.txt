@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:37.836997
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:03
 #+TITLE: 拔一切業障根本得生淨土神呪
 #+PROPERTY: CBETA_ID T12n0368
 #+PROPERTY: ID KR6f0094
