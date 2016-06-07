@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:37.836997
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:03
 #+TITLE: 拔一切業障根本得生淨土神呪
 #+PROPERTY: CBETA_ID T12n0368
 #+PROPERTY: ID KR6f0094
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 368
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0094_T_001-0351c> 
 #+PROPERTY: JUAN 1
 ¶
-No.368¶
-
- 拔一切業障根本得生淨土神呪¶
+No. 368¶
+拔一切業障根本得生淨土神呪¶
 (出小無量壽經)¶
 ¶
 劉宋天竺三藏求那跋陀羅¶
@@ -22,16 +21,12 @@ No.368¶
 哆地(途賣切)(三)　夜他阿彌利(上聲)(四)　都婆毘(五)　阿彌利¶
 哆(六)　悉眈婆毘(七)　阿彌利哆(八)　毘迦蘭諦(九)　阿¶
 彌利哆(十)　毘迦蘭哆(十一)　伽彌膩(十二)　伽伽那(十三)　枳¶
-多迦隷(十四)　莎婆訶(十五)¶
-
+多迦隷(十四)　莎婆訶(十五)
 若有善男子善女人能誦此呪者，阿彌陀佛¶
 常住其頂，日夜擁護，無令怨家而得其便，現¶
 世常得安隱，臨命終時任運往生。¶
 
-:PROPERTIES:
-:head: 阿彌陀經不思議神力傳(附隋錄，未詳作者)：
-:END:
-¶
+* 阿彌陀經不思議神力傳(附隋錄，未詳作者)：¶
 
 昔長安僧叡法師、慧崇、僧顯、慧通，近至後¶
 周實禪師、景禪師、西河鸞法師等數百餘人，¶
